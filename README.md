@@ -6,7 +6,11 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of vacinaBrasil is to …
+Dados de pessoas vacinadas no Brasil por idade. A população é estimada a
+partir da PNAD contínua. Os dados de vacinação são obtidos do Open
+Datasus. Ver códigos para obtenção dos resultados na pasta `data-raw/`.
+
+**Última atualização**: 25/04/2021
 
 ## População
 
